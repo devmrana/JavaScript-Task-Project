@@ -128,9 +128,6 @@ function removeFormLS(taskItem) {
 		}
 	});
 	localStorage.setItem('tasks',JSON.stringify(tasks));
-<<<<<<< HEAD
 }
 
-=======
-}
->>>>>>> master
+
